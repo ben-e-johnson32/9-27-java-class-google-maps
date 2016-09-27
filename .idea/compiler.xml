@@ -23,10 +23,12 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="9-27 java class google maps" />
+        <module name="9-27-java-class-google-maps" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="9-27 java class google maps" target="1.5" />
+      <module name="9-27-java-class-google-maps" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>
